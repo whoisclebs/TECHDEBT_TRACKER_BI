@@ -1,4 +1,23 @@
 {
   "projectName": "TECHDEBT_TRACKER_BI",
-  "projectOwner": "whoisclebs"
+  "projectOwner": "whoisclebs",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "whoisclebs",
+      "name": "Clebson Augusto Fonseca",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43012757?v=4",
+      "profile": "http://whoisclebs.space",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
+    }
+  ]
 }
